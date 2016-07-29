@@ -26,3 +26,5 @@ To use the plugin in maven you need to follow these steps:
 </pre>
 
 More documentation in the generated maven site <a href="http://ppedregal.github.com/typescript-maven-plugin/">here</a>
+
+### Added real JARs in repo
